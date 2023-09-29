@@ -13,9 +13,6 @@ By using ***Double exposure***, I wanted to mix two very different images to cre
 ![An image of the multiple_exposure3](/readme/multiple_exposure3.jpg)
 
 
-<br><br>
-<br><br>
-<br><br>
 
 # **Coding Technique Exploration**
 
@@ -38,7 +35,5 @@ This technique provides a real-time, dynamic visual experience for web design th
 
 #### Overlay
 ![An image of the Sample3](/readme/Sample3.png)
-
-<br><br>
 
 [***Here are more examples of code implementations.***](https://developer.mozilla.org/en-US/docs/Web/CSS/blend-mode)

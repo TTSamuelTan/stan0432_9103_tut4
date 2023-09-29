@@ -6,11 +6,11 @@
 By using ***Double exposure***, I wanted to mix two very different images to create a coherent story or message. Considering the demand for innovation and creativity in assignments, this technique opens up the possibility for unique narratives that have deep emotional resonance.
 ## Image
 
-![An image of the multiple_exposure1](readme\multiple_exposure1.jpg)
+![An image of the multiple_exposure1](/readme/multiple_exposure1.jpg)
 
-![An image of the multiple_exposure2](readme\multiple_exposure2.jpg)
+![An image of the multiple_exposure2](/readme/multiple_exposure2.jpg)
 
-![An image of the multiple_exposure3](readme\multiple_exposure3.jpg)
+![An image of the multiple_exposure3](/readme/multiple_exposure3.jpg)
 
 
 <br><br>

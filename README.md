@@ -31,13 +31,13 @@ This technique provides a real-time, dynamic visual experience for web design th
 ## Image and Link
 
 #### Multiply
-![An image of the Sample1](readme\Sample1.png)
+![An image of the Sample1](/readme/Sample1.png)
 
 #### Screen
-![An image of the Sample2](readme\Sample2.png)
+![An image of the Sample2](/readme/Sample2.png)
 
 #### Overlay
-![An image of the Sample3](readme\Sample3.png)
+![An image of the Sample3](/readme/Sample3.png)
 
 <br><br>
 

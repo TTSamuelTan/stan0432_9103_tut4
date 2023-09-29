@@ -6,11 +6,11 @@
 By using ***Double exposure***, I wanted to mix two very different images to create a coherent story or message. Considering the demand for innovation and creativity in assignments, this technique opens up the possibility for unique narratives that have deep emotional resonance.
 ## Image
 
-![An image of the multiple_exposure1](readmeImages\multiple_exposure1.jpg)
+![An image of the multiple_exposure1](readme\multiple_exposure1.jpg)
 
-![An image of the multiple_exposure2](readmeImages\multiple_exposure2.jpg)
+![An image of the multiple_exposure2](readme\multiple_exposure2.jpg)
 
-![An image of the multiple_exposure3](readmeImages\multiple_exposure3.jpg)
+![An image of the multiple_exposure3](readme\multiple_exposure3.jpg)
 
 
 <br><br>
@@ -31,13 +31,13 @@ This technique provides a real-time, dynamic visual experience for web design th
 ## Image and Link
 
 #### Multiply
-![An image of the Sample1](readmeImages\Sample1.png)
+![An image of the Sample1](readme\Sample1.png)
 
 #### Screen
-![An image of the Sample2](readmeImages\Sample2.png)
+![An image of the Sample2](readme\Sample2.png)
 
 #### Overlay
-![An image of the Sample3](readmeImages\Sample3.png)
+![An image of the Sample3](readme\Sample3.png)
 
 <br><br>
 
